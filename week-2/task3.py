@@ -23,4 +23,3 @@ elif res == 'x':
         x = int(n1) - int(n2)
 
 print(x)
-

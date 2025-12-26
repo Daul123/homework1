@@ -7,3 +7,4 @@ if sorted_s1 == sorted_s2:
     print("YES")
 else:
     print("NO")
+
